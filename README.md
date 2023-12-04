@@ -1,8 +1,14 @@
 
 # Automação compras Cypress
 
-Automação dos testes em um loja virtual utilizando Cypress.
+Automação testes em um loja virtual utilizando Cypress.
 
+
+## Instalando dependencias
+
+```
+    yarn install
+```
 
 ## Rodando os testes
 
